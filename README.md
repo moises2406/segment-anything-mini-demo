@@ -25,13 +25,15 @@ Navigate to [`http://localhost:8081/`](http://localhost:8081/)
 Move your cursor around to see the mask prediction update in real time.
 
 
-Citar segmento cualquier cosa
+## Citar segmento cualquier cosa
 
-Si usa SAM o SA-1B en su investigación, use la siguiente entrada de BibTeX.
+## Si usa SAM o SA-1B en su investigación, use la siguiente entrada de BibTeX.
 
+```
 @article{kirillov2023segany,
   title={Segment Anything},
   author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C. and Lo, Wan-Yen and Doll{\'a}r, Piotr and Girshick, Ross},
   journal={arXiv:2304.02643},
   year={2023}
 }
+```
